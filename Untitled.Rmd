@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-author: "Maria Cuñat Cursa"
+author: "Maria Cuñat"
 date: "2023-05-26"
 output: html_document
 ---
